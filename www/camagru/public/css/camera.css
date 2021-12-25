@@ -1,0 +1,51 @@
+.booth
+{
+    width: 400px;
+    background-color:  #ccc;
+    border: 10px solid #ddd;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+.booth-capture-button
+{
+    display: block;
+    margin: 10px 0;
+    padding: 10px 0;
+    background-color: cornflowerblue;
+    color: #fff;
+    text-align: center;
+    text-decoration: none ;
+
+}
+
+#canvas
+{
+    display: none;
+}
+.main
+{
+  position: relative;
+    background-color: rgb(235, 12, 12);
+}
+.filter
+{
+    background-color: aqua;
+}
+.tmb
+{
+    background-color: rgb(225, 0, 255);
+}
+
+.bobo img
+{
+    width: 70%;
+}
+.live_filter
+{
+  position:absolute;
+  width: 150px;
+  height: 150px;
+  /* background-image: url("../images/filter1.png"); */
+
+}

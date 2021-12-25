@@ -1,0 +1,677 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 08 18:46:40.497255 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 08 18:46:40.497502 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 08 19:29:31.467021 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 08 19:29:31.473869 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 08 20:42:01.632220 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 11 17:18:13.489076 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Oct 11 17:18:13.490991 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Oct 11 18:58:43.597760 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 13 16:14:02.135945 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Oct 13 16:14:02.138043 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Oct 13 19:20:57.642499 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 13 20:24:20.190077 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Oct 13 20:24:20.192658 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Oct 13 21:43:37.940083 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 14 08:08:04.365720 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Oct 14 08:08:04.368384 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 14 12:29:11.961691 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 14 12:33:40.561680 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Oct 14 12:33:40.564568 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 14 18:51:07.469760 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 14 18:54:42.139561 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Oct 14 18:54:42.141776 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 14 21:41:57.969982 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 15 09:04:21.469865 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 15 09:04:21.472812 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 15 10:14:46.262102 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 15 13:43:25.815751 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 15 13:43:25.817843 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 15 15:29:58.639640 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 15 16:29:14.247833 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 15 16:29:14.250216 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 15 21:22:46.667531 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 15 21:24:33.013151 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 15 21:24:33.015659 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 15 21:47:53.554531 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 17 17:36:44.877641 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Oct 17 17:36:44.879914 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Oct 17 18:00:54.586933 2019] [autoindex:error] [pid 16] [client 172.18.0.1:60888] AH01276: Cannot serve directory /var/www/html/day03/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Oct 17 18:01:11.256011 2019] [autoindex:error] [pid 17] [client 172.18.0.1:60890] AH01276: Cannot serve directory /var/www/html/day03/ex01/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Oct 17 19:13:06.014511 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 18 10:00:15.300984 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Oct 18 10:00:15.303251 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Oct 18 16:37:34.098320 2019] [autoindex:error] [pid 18] [client 172.18.0.1:38590] AH01276: Cannot serve directory /var/www/html/day03/ex06/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Oct 18 18:59:46.808589 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 18 19:03:10.322273 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Oct 18 19:03:10.326501 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Oct 18 22:28:00.408239 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 19 10:35:46.746323 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Oct 19 10:35:46.748449 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 19 17:39:10.530673 2019] [php7:error] [pid 20] [client 172.18.0.1:47654] script '/var/www/html/day04/ex02/index.php' not found or unable to stat
+[Sat Oct 19 21:08:18.372827 2019] [php7:error] [pid 17] [client 172.18.0.1:47896] script '/var/www/html/day04/ex01/index.php' not found or unable to stat
+[Sat Oct 19 22:31:17.845246 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 20 12:00:41.572228 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Oct 20 12:00:41.574805 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Oct 20 13:24:11.504866 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 20 13:29:24.411297 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Oct 20 13:29:24.413713 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Oct 20 16:15:48.515060 2019] [php7:error] [pid 15] [client 172.18.0.1:35616] script '/var/www/html/rush00/admin/gst_usr.php' not found or unable to stat, referer: http://localhost/rush00/admin/modif_a.php?id=17
+[Sun Oct 20 19:48:50.376873 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 20 19:55:30.183492 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Oct 20 19:55:30.198223 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Oct 20 21:41:54.903094 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 21 16:10:07.449528 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Oct 21 16:10:07.452434 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 21 18:54:29.795922 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 22 09:14:16.208388 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 22 09:14:16.211662 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 22 11:34:42.952054 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 22 12:39:46.445165 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 22 12:39:46.451102 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 22 15:50:31.946693 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 22 17:47:11.721876 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 22 17:47:11.725672 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 22 19:40:48.353776 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 22 19:45:38.461211 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Oct 22 19:45:38.465018 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 22 22:22:41.030083 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 24 11:01:18.795950 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Oct 24 11:01:18.798657 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Oct 24 14:45:48.569939 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 26 11:43:18.884199 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Oct 26 11:43:18.888036 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 26 13:09:02.188560 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 26 19:38:32.181717 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Oct 26 19:38:32.183774 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 26 22:37:13.098292 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 27 14:32:52.054291 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Oct 27 14:32:52.057744 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Oct 27 16:18:41.337437 2019] [php7:error] [pid 18] [client 172.18.0.1:49364] script '/var/www/html/oherba/ex01/index.php' not found or unable to stat
+[Sun Oct 27 16:28:25.708313 2019] [php7:error] [pid 19] [client 172.18.0.1:49390] script '/var/www/html/oherba/ex01/cookie.php' not found or unable to stat
+[Sun Oct 27 16:31:49.962421 2019] [php7:error] [pid 16] [client 172.18.0.1:49408] script '/var/www/html/oherba/ex01/modif.php' not found or unable to stat
+[Sun Oct 27 16:35:37.993882 2019] [autoindex:error] [pid 16] [client 172.18.0.1:49428] AH01276: Cannot serve directory /var/www/html/oherba/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Oct 27 17:23:26.897368 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Nov 04 16:51:45.783642 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Nov 04 16:51:45.783949 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Nov 04 16:53:29.788026 2019] [autoindex:error] [pid 15] [client 172.18.0.1:45542] AH01276: Cannot serve directory /var/www/html/verif9/ex00/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Nov 04 21:39:53.422456 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 05 17:36:52.824315 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Nov 05 17:36:52.826073 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 05 18:44:03.057242 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 05 19:11:53.980685 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Nov 05 19:11:53.983009 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 05 20:06:43.551477 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 07 14:38:45.396005 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Nov 07 14:38:45.400871 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Nov 07 18:41:02.878797 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 09 16:05:03.482424 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 09 16:05:03.485424 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 09 17:20:19.713736 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 10 15:23:00.925609 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Dec 10 15:23:00.927328 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 10 17:07:35.503663 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 19 15:51:46.796558 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 19 15:51:46.798168 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Dec 19 17:26:16.663582 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 21 15:22:26.172531 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Dec 21 15:22:26.174553 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Dec 21 16:21:22.144057 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 23 14:44:48.070044 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 23 14:44:48.071800 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 23 14:49:19.162790 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 23 14:51:00.078192 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 23 14:51:00.080122 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 23 15:36:58.881271 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 23 15:52:11.574063 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 23 15:52:11.575659 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Dec 23 17:35:13.222662 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 24 15:08:26.872559 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Dec 24 15:08:26.875080 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Dec 24 21:49:40.090154 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 27 14:48:59.729434 2019] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Dec 27 14:48:59.731052 2019] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Dec 27 17:15:01.665842 2019] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 06 15:26:47.622046 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Jan 06 15:26:47.622496 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 06 17:22:20.083886 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Jan 06 17:22:20.089645 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 06 17:54:21.311648 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 07 15:56:55.665839 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Jan 07 15:56:55.671693 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 07 16:49:49.139007 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Jan 07 16:49:49.148793 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 08 14:52:03.578342 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Jan 08 14:52:03.587369 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 08 15:02:12.085954 2020] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 08 15:02:12.124680 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Jan 08 15:02:12.128574 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 08 15:17:41.678167 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 08 15:17:41.682003 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Jan 08 15:17:41.682324 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 09 15:03:30.833010 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 09 15:03:30.843762 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Jan 09 15:03:30.844152 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 10 13:58:06.106152 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Jan 10 13:58:06.113553 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 10 14:49:22.952611 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 10 14:49:22.955984 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Jan 10 14:49:22.956606 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 10 15:37:54.203587 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 10 15:37:54.205953 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Jan 10 15:37:54.206789 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+ssmtp: No recipients specified although -t option used
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 10 18:52:05.740664 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Jan 10 18:52:05.747886 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 12 16:04:28.814992 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Jan 12 16:04:28.822554 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 14 16:20:40.919295 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 14 16:20:40.927092 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Jan 14 16:20:40.928136 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 15 14:48:49.225429 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Jan 15 14:48:49.233977 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 15 16:34:55.564668 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Jan 15 16:34:55.574146 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 15 18:54:40.671453 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Jan 15 18:54:40.677748 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 16 14:53:32.321207 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Jan 16 14:53:32.332803 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 17 10:43:54.279509 2020] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 17 10:43:54.301325 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Jan 17 10:43:54.302329 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 17 12:42:38.349423 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Jan 17 12:42:38.358582 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 17 19:10:30.211650 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Jan 17 19:10:30.216907 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 18 15:42:13.088501 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Jan 18 15:42:13.095211 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 18 17:51:30.981581 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Jan 18 17:51:30.990431 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 20 15:16:55.284907 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Jan 20 15:16:55.293605 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 25 14:33:29.398298 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 25 14:33:29.452887 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Jan 25 14:33:29.453279 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 26 14:08:12.941439 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Jan 26 14:08:12.950916 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Jan 26 19:23:11.400405 2020] [autoindex:error] [pid 15] [client 172.18.0.1:53160] AH01276: Cannot serve directory /var/www/html/camagru/public/img/posts/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive, referer: http://localhost/camagru/posts/saveimage
+[Sun Jan 26 19:23:28.778404 2020] [autoindex:error] [pid 19] [client 172.18.0.1:53168] AH01276: Cannot serve directory /var/www/html/camagru/public/img/posts/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive, referer: http://localhost/camagru/posts/saveimage
+[Sun Jan 26 19:23:44.554087 2020] [autoindex:error] [pid 13] [client 172.18.0.1:53176] AH01276: Cannot serve directory /var/www/html/camagru/public/img/posts/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive, referer: http://localhost/camagru/posts/saveimage
+[Sun Jan 26 19:23:46.914106 2020] [autoindex:error] [pid 13] [client 172.18.0.1:53176] AH01276: Cannot serve directory /var/www/html/camagru/public/img/posts/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive, referer: http://localhost/camagru/posts/saveimage
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 27 14:25:05.437076 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Jan 27 14:25:05.442408 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 28 08:18:03.962433 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Jan 28 08:18:04.125347 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 28 12:10:57.729089 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Jan 28 12:10:57.749167 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 28 19:20:32.152242 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 28 19:20:32.159966 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Jan 28 19:20:32.160963 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 29 14:50:46.241425 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Jan 29 14:50:46.244411 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 29 19:02:17.524880 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Jan 29 19:02:17.540069 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Jan 29 20:53:10.784662 2020] [autoindex:error] [pid 9] [client 172.18.0.1:33172] AH01276: Cannot serve directory /var/www/html/camagru/public/img/posts/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive, referer: http://localhost/camagru/posts/mygalery
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 30 13:55:11.807108 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 30 13:55:11.813631 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Jan 30 13:55:11.813800 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 30 18:01:07.486550 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Jan 30 18:01:07.497862 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 31 09:06:27.276195 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Jan 31 09:06:27.295444 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 31 13:03:44.912742 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Jan 31 13:03:44.921487 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Feb 01 13:14:19.430333 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Feb 01 13:14:19.440053 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Feb 02 14:00:02.342136 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Feb 02 14:00:02.362766 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Feb 02 17:20:22.157855 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 02 17:20:22.166253 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Feb 02 17:20:22.166620 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 03 15:28:28.735141 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Feb 03 15:28:28.743181 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Feb 03 15:36:40.242483 2020] [autoindex:error] [pid 12] [client 172.18.0.1:54234] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:39:51.456995 2020] [autoindex:error] [pid 13] [client 172.18.0.1:54256] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:21.900435 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:22.691723 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:23.116361 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:23.297895 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:23.473676 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:23.619183 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:23.820990 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:24.019325 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:24.405426 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:24.579880 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:24.743136 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:24.909946 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:25.090506 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:25.269677 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:25.573817 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:25.763509 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:25.931171 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:26.116258 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:26.291327 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:26.717278 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:26.917806 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:27.091747 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:27.269953 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:27.653547 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:27.852693 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:28.046947 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:28.215495 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:28.387016 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:29.990674 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:30.184018 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:30.375867 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:30.534752 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:30.710558 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:30.897489 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:31.066481 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:42:31.265931 2020] [autoindex:error] [pid 10] [client 172.18.0.1:54262] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:55.277360 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:56.172743 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:56.421944 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:56.591361 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:56.732518 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:57.061687 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:57.262375 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:57.423259 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:57.604199 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:57.774543 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:57.892596 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:58.053818 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:58.195802 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:58.380116 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:59.174302 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:59.383215 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:59.575119 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:43:59.790815 2020] [autoindex:error] [pid 11] [client 172.18.0.1:54264] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:44:36.341438 2020] [autoindex:error] [pid 12] [client 172.18.0.1:54266] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:44:36.860613 2020] [autoindex:error] [pid 12] [client 172.18.0.1:54266] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:44:37.010734 2020] [autoindex:error] [pid 12] [client 172.18.0.1:54266] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:44:37.162481 2020] [autoindex:error] [pid 12] [client 172.18.0.1:54266] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:44:37.314764 2020] [autoindex:error] [pid 12] [client 172.18.0.1:54266] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:44:37.460591 2020] [autoindex:error] [pid 12] [client 172.18.0.1:54266] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:44:37.676923 2020] [autoindex:error] [pid 12] [client 172.18.0.1:54266] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 03 15:45:43.205943 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Feb 03 15:45:43.223945 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Feb 03 15:45:44.712519 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:45.387465 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:45.555093 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:45.740611 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:45.884977 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:46.022837 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:46.163853 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:46.324402 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:46.540866 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:46.708555 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:46.870476 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:47.030006 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:47.208811 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:47.374133 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:47.532896 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:47.702400 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:47.861853 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:48.029518 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:48.192954 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:48.350166 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:48.510675 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:48.672378 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:45:48.830628 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46600] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:47:42.543693 2020] [autoindex:error] [pid 9] [client 172.18.0.1:46616] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:26.413676 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:26.930571 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:27.099474 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:27.269687 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:27.438943 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:27.587891 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:27.758097 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:27.918425 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:28.076812 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:28.219854 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:28.371985 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:28.542556 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:28.710044 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:28.861203 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:29.014485 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:29.214157 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:29.470769 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:29.647228 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:29.805344 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:29.949680 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:30.120790 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:30.277819 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:30.439812 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:30.600178 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:30.778296 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:30.947746 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:31.123110 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:31.362190 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:31.554507 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Feb 03 15:48:31.788136 2020] [autoindex:error] [pid 10] [client 172.18.0.1:46618] AH01276: Cannot serve directory /var/www/html/camagru/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 05 12:27:03.303960 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Feb 05 12:27:03.328778 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 05 14:30:25.718727 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Feb 05 14:30:25.761096 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 05 19:18:39.005528 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Feb 05 19:18:39.011433 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 06 09:18:53.948005 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Feb 06 09:18:53.953037 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Feb 07 12:59:48.417777 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Feb 07 12:59:48.425895 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Fri Feb 07 17:30:33.913540 2020] [php7:error] [pid 11] [client 172.18.0.1:55224] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:30:56.643509 2020] [php7:error] [pid 13] [client 172.18.0.1:55226] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:30:57.303456 2020] [php7:error] [pid 13] [client 172.18.0.1:55226] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:30:57.536587 2020] [php7:error] [pid 13] [client 172.18.0.1:55226] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:30:57.703970 2020] [php7:error] [pid 13] [client 172.18.0.1:55226] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:30:57.888263 2020] [php7:error] [pid 13] [client 172.18.0.1:55226] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:30:58.071933 2020] [php7:error] [pid 13] [client 172.18.0.1:55226] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:31:28.446377 2020] [php7:error] [pid 19] [client 172.18.0.1:55228] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:31:28.984533 2020] [php7:error] [pid 19] [client 172.18.0.1:55228] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:31:29.155287 2020] [php7:error] [pid 19] [client 172.18.0.1:55228] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:31:29.322158 2020] [php7:error] [pid 19] [client 172.18.0.1:55228] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:31:29.474906 2020] [php7:error] [pid 19] [client 172.18.0.1:55228] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:31:29.653634 2020] [php7:error] [pid 19] [client 172.18.0.1:55228] script '/var/www/html/camagru/public/index.php' not found or unable to stat, referer: http://localhost/camagru/Authentification/login
+[Fri Feb 07 17:31:37.354723 2020] [autoindex:error] [pid 22] [client 172.18.0.1:55230] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:31:52.204076 2020] [autoindex:error] [pid 10] [client 172.18.0.1:55232] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:31:52.477877 2020] [autoindex:error] [pid 10] [client 172.18.0.1:55232] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:31:52.664706 2020] [autoindex:error] [pid 10] [client 172.18.0.1:55232] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:31:52.909375 2020] [autoindex:error] [pid 10] [client 172.18.0.1:55232] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:31:53.200361 2020] [autoindex:error] [pid 10] [client 172.18.0.1:55232] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:04.212467 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:04.700348 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:04.884445 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:05.069133 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:05.243630 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:05.428902 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:05.596655 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:05.777737 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:05.962174 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:06.160590 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:06.317711 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:06.455143 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:32:06.662617 2020] [autoindex:error] [pid 8] [client 172.18.0.1:55234] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:33:44.400933 2020] [core:error] [pid 9] [client 172.18.0.1:55236] AH00124: Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Fri Feb 07 17:50:44.558908 2020] [autoindex:error] [pid 21] [client 172.18.0.1:55258] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:00.272174 2020] [autoindex:error] [pid 12] [client 172.18.0.1:55260] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:00.980615 2020] [autoindex:error] [pid 12] [client 172.18.0.1:55260] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:01.389317 2020] [autoindex:error] [pid 12] [client 172.18.0.1:55260] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:01.578987 2020] [autoindex:error] [pid 12] [client 172.18.0.1:55260] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:01.774498 2020] [autoindex:error] [pid 12] [client 172.18.0.1:55260] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:01.974852 2020] [autoindex:error] [pid 12] [client 172.18.0.1:55260] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:04.461776 2020] [autoindex:error] [pid 12] [client 172.18.0.1:55260] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:07.082988 2020] [autoindex:error] [pid 12] [client 172.18.0.1:55260] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:19.292160 2020] [autoindex:error] [pid 18] [client 172.18.0.1:55262] AH01276: Cannot serve directory /var/www/html/camagru/public/img/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Fri Feb 07 17:51:32.000579 2020] [autoindex:error] [pid 11] [client 172.18.0.1:55264] AH01276: Cannot serve directory /var/www/html/camagru/public/img/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Feb 07 20:14:33.652356 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Feb 07 20:14:33.659022 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Feb 08 13:59:51.227064 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Feb 08 13:59:51.236920 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Feb 08 14:34:45.393644 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Feb 08 14:34:45.399336 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Feb 08 18:36:38.288011 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Feb 08 18:36:38.295954 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+ssmtp: No recipients specified although -t option used
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 11 15:15:23.603719 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Feb 11 15:15:23.628698 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 12 17:03:47.040401 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 12 17:03:47.080090 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Feb 12 17:03:47.080498 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 13 12:31:23.338990 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Feb 13 12:31:23.348977 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 13 19:27:44.659624 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Feb 13 19:27:44.678977 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Feb 14 14:10:57.972012 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Feb 14 14:10:57.975843 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Feb 15 13:16:05.986897 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Feb 15 13:16:05.992116 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Feb 15 19:46:36.032655 2020] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 15 19:46:36.040777 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Feb 15 19:46:36.041125 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Feb 16 15:01:16.837487 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Feb 16 15:01:16.841703 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 17 13:26:47.258985 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Feb 17 13:26:47.265225 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 18 09:31:15.676016 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Feb 18 09:31:15.683921 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Feb 18 09:56:17.076937 2020] [autoindex:error] [pid 14] [client 172.18.0.1:35148] AH01276: Cannot serve directory /var/www/html/camagru/public/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.22.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 23 13:04:41.512451 2020] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Oct 23 13:04:41.513389 2020] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 27 18:57:29.482887 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Nov 27 18:57:29.483900 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 27 19:07:17.733014 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Nov 27 19:07:17.733468 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 27 19:16:01.217486 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Nov 27 19:16:01.218123 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 27 19:24:46.551583 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Nov 27 19:24:46.552756 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Nov 28 14:55:54.170167 2021] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Nov 28 14:55:54.174763 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Nov 28 14:55:54.175257 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Nov 29 17:51:25.579357 2021] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 29 17:51:25.586437 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Nov 29 17:51:25.587054 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 30 10:48:44.722318 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Nov 30 10:48:44.733031 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 30 14:38:19.553631 2021] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Nov 30 14:38:19.564846 2021] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 01 13:28:19.805153 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Dec 01 13:28:19.812403 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 01 15:48:46.875819 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Dec 01 15:48:46.881810 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 01 18:50:18.847379 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Dec 01 18:50:18.852932 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 02 15:00:41.274458 2021] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 02 15:00:41.280085 2021] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 02 18:11:20.446195 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 02 18:11:20.456968 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 03 14:14:39.053467 2021] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 03 14:14:39.059579 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Dec 03 14:14:39.060063 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 04 11:50:21.542917 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Dec 04 11:50:21.546504 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 04 16:59:40.319244 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Dec 04 16:59:40.327698 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 05 11:12:14.547534 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Dec 05 11:12:14.554166 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 06 12:07:25.664652 2021] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 06 12:07:25.699445 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 06 12:07:25.700054 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 06 15:38:23.832173 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 06 15:38:23.838335 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 06 18:00:40.618525 2021] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 06 18:00:40.737524 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 06 18:00:40.738552 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 07 16:01:12.133362 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Dec 07 16:01:12.143813 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 08 11:25:07.628545 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Dec 08 11:25:07.629528 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 08 14:26:53.969439 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Dec 08 14:26:53.973845 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 09 11:48:11.921446 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 09 11:48:11.926586 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 09 16:11:27.899354 2021] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 09 16:11:27.909090 2021] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 09 19:28:48.456821 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 09 19:28:48.460481 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 10 11:28:23.319912 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Dec 10 11:28:23.327701 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 11 12:55:45.099146 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Dec 11 12:55:45.103108 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 12 14:28:25.138952 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Dec 12 14:28:25.142919 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 13 12:41:26.813323 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 13 12:41:26.823280 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 13 17:58:06.776040 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 13 17:58:06.785606 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 15 17:02:51.251569 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Dec 15 17:02:51.261219 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 16 09:12:22.050367 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 16 09:12:22.060420 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 16 16:10:28.256919 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 16 16:10:28.265586 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 17 14:37:46.528543 2021] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 17 14:37:46.539092 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Dec 17 14:37:46.539526 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 18 11:48:01.420856 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sat Dec 18 11:48:01.432625 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 20 12:15:02.514915 2021] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 20 12:15:02.527368 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Dec 20 12:15:02.527793 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 21 12:38:41.912268 2021] [core:warn] [pid 9] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 21 12:38:41.924599 2021] [mpm_prefork:notice] [pid 9] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Tue Dec 21 12:38:41.924975 2021] [core:notice] [pid 9] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 22 13:59:07.607566 2021] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 22 13:59:07.620135 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Dec 22 13:59:07.620741 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 23 10:37:38.424362 2021] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 23 10:37:38.444376 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 23 10:37:38.445844 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 23 18:17:49.175178 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Thu Dec 23 18:17:49.180257 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 24 14:06:41.934334 2021] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Fri Dec 24 14:06:41.941580 2021] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
