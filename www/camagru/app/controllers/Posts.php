@@ -24,6 +24,28 @@
 
         public function mergePic()
         {
+            if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['camPicData']))
+            
+                // Create image instances
+                $src = imagecreatefrompng(APPROOT.'/controllers/'.$_POST['filter']);
+                $dest = imagecreatefrompng($_POST['camPicData']);
+                // Copy and merge
+                imagecopy($dest, $src, 0, 0, 0, 0, 150, 150);
+                // Output and free from memory
+                header('Content-Type: image/gif');
+                imagepng($dest);
+                
+                imagedestroy($dest);
+                imagedestroy($src);
+        
+            
+           
+                //stock the image in project folder
+                //save the path of the stocked image in the database
+                //return the path
+           
+            //$array = ['userName' => $name, 'computedString' => $computedString];
+            //echo json_encode($array);
             //merge the captured pic with the selected sticker
             //where is the captured pic 
             

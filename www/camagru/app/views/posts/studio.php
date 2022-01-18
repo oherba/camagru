@@ -24,7 +24,8 @@
                                 </label>
                             </div>
                             <div class="">
-                                <input type="radio" name="filter" value="filter4" id="filter4" onchange="live_filter()"/>
+                       
+                            <input type="radio" name="filter" value="filter4" id="filter4" onchange="live_filter()"/>
                                 <label for="filter4">
                                     <img src="<?php echo URLROOT;?>/public/images/filter4.png" alt="" /> 
                                 </label>
@@ -43,7 +44,7 @@
                     <div>
                         <div class="live_filter" id="live_filter"></div>
                         <video id="video" width="400" height="300"></video>
-                        <a id="capture"  class="booth-capture-button" disabled>Take photo</a>
+                        <a id="capture"  class="booth-capture-button " disabled>Take photo</a>
                         <canvas id="canvas" width="400" height="300"></canvas>
                     </div>
                 </div>

@@ -17,15 +17,26 @@
     document.getElementById('capture').addEventListener('click',function(){
         context.drawImage(video,0,0,400,300);
         photo.setAttribute('src', canvas.toDataURL('image/png'));
+        //console.log(canvas.toDataURL('image/png'));
+        var filter_choix = document.querySelector('input[name="filter"]:checked');
+        var filter;
+        if (filter_choix)
+            filter = filter_choix.value;
+        // var image_url = '../../public/images/'+filter+'.png';
+        var image_url = filter+'.png';
+        var formData = new FormData ();
+        formData.append('camPicData',canvas.toDataURL('image/png'));
+        formData.append('filter',image_url);
         var xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function() {
             if (this.readyState == 4 && this.status == 200) {
               //document.getElementById("demo").innerHTML = this.responseText;
+              //var response = JSON.parse(httpRequest.responseText);
             }
           };
         
         xhttp.open("POST",'http://localhost/camagru/posts/mergePic' ,true);
-        
+        xhttp.send(formData);
     });
 })();
 
